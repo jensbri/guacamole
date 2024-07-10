@@ -1,0 +1,7 @@
+soup
+
+ingredients
+-onions
+-garlic
+-potatoes
+-carrots
